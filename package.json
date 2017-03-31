@@ -1,0 +1,24 @@
+{
+  "name": "tn-react101",
+  "version": "1.0.0",
+  "description": "react workshop app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanawat Kaochalongkeang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.3.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.1",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "webpack": "^2.3.2"
+  }
+}
